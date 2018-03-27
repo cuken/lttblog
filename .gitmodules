@@ -4,3 +4,9 @@
 [submodule "themes/gohugo-theme-ananke"]
 	path = themes/gohugo-theme-ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/nederburg"]
+	path = themes/nederburg
+	url = https://github.com/appernetic/hugo-nederburg-theme
+[submodule "cactus-plus"]
+	path = cactus-plus
+	url = https://github.com/nodejh/hugo-theme-cactus-plus.git

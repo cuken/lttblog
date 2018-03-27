@@ -1,0 +1,4 @@
+baseURL = "https://cuken.net/"
+languageCode = "en-us"
+title = "Colin's Slice of the internet pie."
+theme = "ananke"
